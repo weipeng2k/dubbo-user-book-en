@@ -1,6 +1,6 @@
 # Asynchronous Call
 
-The client not need setup multithreading for parallel call multiple remote service, which is NIO-based non-blocking implementation of parallel calls.
+Based on non-blocking NIO, the client can start parallel call to multiple remote services without explicitly starting mulithreads, which needs relatively fewer source.
 ![/user-guide/images/future.jpg](../sources/images/future.jpg)
 
 

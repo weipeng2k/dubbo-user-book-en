@@ -1,6 +1,7 @@
 # Asynchronous Call
 
-Based on non-blocking NIO, the client can start parallel call to multiple remote services without explicitly starting mulithreads, which needs relatively fewer source.
+As dubbo is based on a non-blocking NIO network layer, the client can start parallel call to multiple remote services without explicitly starting mulithreads, which costs relatively fewer resources.
+
 ![/user-guide/images/future.jpg](../sources/images/future.jpg)
 
 
